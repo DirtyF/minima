@@ -138,6 +138,10 @@ To enable it, add the following lines to your Jekyll site:
 
 You can find out more about Disqus' shortnames [here](https://help.disqus.com/customer/portal/articles/466208).
 
+💡 The `url` property needs to be set.
+
+If you have any trouble with Disqus concerning domain name or URL, please refer to the [Disqus documentation](https://help.disqus.com/customer/en/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22).
+
 Comments are enabled by default and will only appear in production, i.e., `JEKYLL_ENV=production`
 
 If you don't want to display comments for a particular post you can disable them by adding `comments: false` to that post's YAML Front Matter.
